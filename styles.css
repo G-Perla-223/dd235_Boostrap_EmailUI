@@ -1,7 +1,35 @@
+body{ 
+    background-color: rgb(210, 193, 173);
+}
 #space {
     margin-bottom: 10px;
 }
-
 #selected{
-    color: pink;
+    color: orange;
+}
+
+.button {
+    color: brown;
+}
+#welcome {
+    background-color: rgb(68,54,54);
+    padding: 50px 50px 50px 50px;
+
+}
+h3 {
+    color:antiquewhite;
+}
+.list-group-flush {
+    margin: 50px 50px 50px 50px;
+
+}
+#emails {
+    background-color: rgb(178,98,52);
+    padding: 50px 50px 50px 50px;
+    
+}
+#read {
+    padding: 50px 50px 50px 50px;
+    background-color: white;
+    text-align: left;
 }
